@@ -1,0 +1,48 @@
+Python 3.11.3 (tags/v3.11.3:f3909b8, Apr  4 2023, 23:49:59) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+==== RESTART: C:\Users\mdnaf\AppData\Local\Programs\Python\Python311\ToDo.py ===
+Welcome to the Quiz Game!
+You'll be presented with multiple-choice questions.
+Select the correct answer by typing the corresponding letter.
+Let's begin!
+
+What is the capital of France?
+A. Paris
+B. London
+C. Berlin
+D. Rome
+Your answer (A/B/C/D): D
+Incorrect. The correct answer is: Paris
+
+Which planet is known as the Red Planet?
+A. Venus
+B. Mars
+C. Jupiter
+D. Saturn
+Your answer (A/B/C/D): F
+Incorrect. The correct answer is: Mars
+
+What is the largest mammal?
+A. Elephant
+B. Giraffe
+C. Blue Whale
+D. Hippopotamus
+Your answer (A/B/C/D): F
+Incorrect. The correct answer is: Blue Whale
+
+Quiz completed!
+Your score: 0/3
+Keep practicing and improve your score next time.
+>>> F
+Traceback (most recent call last):
+  File "<pyshell#0>", line 1, in <module>
+    F
+NameError: name 'F' is not defined
+F
+>>> 
+>>> 
+>>> 
+>>> 
+>>> 
+=============== RESTART: C:/Users/mdnaf/OneDrive/Desktop/CODSOFT ===============
